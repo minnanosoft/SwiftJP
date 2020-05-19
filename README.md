@@ -1,6 +1,6 @@
 # SwiftJP
 
-swift.org の 公式Swiftマニュアル「The Swift Programming Language」を日本語化します。
+swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language」を日本語化します。
 
 [英語版はこちら](https://docs.swift.org/swift-book/)
 
