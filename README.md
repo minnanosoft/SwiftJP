@@ -6,7 +6,7 @@ swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language�
 
 5.3が出る前に、5.2の日本語訳を完成させたいと考えています。
 
-Welcome to Swift
+### Welcome to Swift
 
 | 章 | 翻訳 | 校正 |
 | --- | --- | --- |
@@ -14,7 +14,7 @@ Welcome to Swift
 | Version Compatibility |  |  |
 | A Swift Tour |  |  |
 
-Language Guide
+### Language Guide
 
 | 章 | 翻訳 | 校正 |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Language Guide
 | Access Control |  |  |
 | Advanced Operators |  |  |
 
-Language Reference
+### Language Reference
 
 | 章 | 翻訳 | 校正 |
 | --- | --- | --- |
