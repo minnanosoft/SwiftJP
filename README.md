@@ -19,9 +19,9 @@ swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language�
 
 | 章 | 翻訳 | 意訳 | 校正 |
 | --- | --- | --- | --- |
-| About Swift | 仕掛り中 |  |  |
-| Version Compatibility | 仕掛り中 |  |  |
-| A Swift Tour | 仕掛り中 |  |  |
+| About Swift | 完了 | 2020/05/22予定 |  |
+| Version Compatibility | 完了 | 2020/05/22予定 |  |
+| A Swift Tour | 完了 | 2020/05/22予定 |  |
 
 ### Language Guide
 
