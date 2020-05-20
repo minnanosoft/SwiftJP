@@ -27,25 +27,25 @@ swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language�
 
 | 章 | 翻訳 | 意訳 | 校正 |
 | --- | --- | --- | --- |
-| The Basics | 仕掛り中 |  |  |
-| Basic Operators | 仕掛り中 |  |  |
-| Strings and Characters | 仕掛り中 |  |  |
-| Collection Types | 仕掛り中 |  |  |
-| Control Flow | 仕掛り中 |  |  |
-| Functions | 仕掛り中 |  |  |
-| Closures | 仕掛り中 |  |  |
-| Enumerations | 仕掛り中 |  |  |
-| Structures and Classes | 仕掛り中 |  |  |
-| Properties | 仕掛り中 |  |  |
-| Methods | 仕掛り中 |  |  |
-| Subscripts | 仕掛り中 |  |  |
-| Inheritance | 仕掛り中 |  |  |
-| Initialization | 仕掛り中 |  |  |
-| Deinitialization | 仕掛り中 |  |  |
-| Optional Chaining | 仕掛り中 |  |  |
-| Error Handling | 仕掛り中 |  |  |
-| Type Casting | 仕掛り中 |  |  |
-| Nested Types | 仕掛り中 |  |  |
+| The Basics | フォーマット待ち |  |  |
+| Basic Operators | フォーマット待ち |  |  |
+| Strings and Characters | フォーマット待ち |  |  |
+| Collection Types | フォーマット待ち |  |  |
+| Control Flow | フォーマット待ち |  |  |
+| Functions | フォーマット待ち |  |  |
+| Closures | フォーマット待ち |  |  |
+| Enumerations | フォーマット待ち |  |  |
+| Structures and Classes | フォーマット待ち |  |  |
+| Properties | フォーマット待ち |  |  |
+| Methods | フォーマット待ち |  |  |
+| Subscripts | フォーマット待ち |  |  |
+| Inheritance | フォーマット待ち |  |  |
+| Initialization | フォーマット待ち |  |  |
+| Deinitialization | フォーマット待ち |  |  |
+| Optional Chaining | フォーマット待ち |  |  |
+| Error Handling | フォーマット待ち |  |  |
+| Type Casting | フォーマット待ち |  |  |
+| Nested Types | フォーマット待ち |  |  |
 | Extensions | 2020/05/22予定 |  |  |
 | Protocols | 2020/05/22予定 |  |  |
 | Generics | 2020/05/23予定 |  |  |
