@@ -45,15 +45,15 @@ swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language�
 | Optional Chaining | 仕掛り中 |  |  |
 | Error Handling | 仕掛り中 |  |  |
 | Type Casting | 仕掛り中 |  |  |
-| Nested Types | まさに仕掛り中 |  |  |
-| Extensions |  |  |  |
-| Protocols |  |  |  |
-| Generics |  |  |  |
-| Opaque Types |  |  |  |
-| Automatic Reference Counting |  |  |  |
-| Memory Safety |  |  |  |
-| Access Control |  |  |  |
-| Advanced Operators |  |  |  |
+| Nested Types | 仕掛り中 |  |  |
+| Extensions | 2020/05/22予定 |  |  |
+| Protocols | 2020/05/22予定 |  |  |
+| Generics | 2020/05/23予定 |  |  |
+| Opaque Types | 2020/05/24予定 |  |  |
+| Automatic Reference Counting | 2020/05/24予定 |  |  |
+| Memory Safety | 2020/05/24予定 |  |  |
+| Access Control | 2020/05/24予定 |  |  |
+| Advanced Operators | 2020/05/25予定 |  |  |
 
 ### Language Reference
 
