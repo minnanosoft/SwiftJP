@@ -21,7 +21,7 @@ swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language�
 | 章 | 翻訳 | 意訳 | 校正 |
 | --- | --- | --- | --- |
 | About Swift | 完了 | 完了 | 依頼中 |
-| Version Compatibility | フォーマット修正の為再実施 | 未着手 |  |
+| Version Compatibility | 完了 | 未着手 |  |
 | A Swift Tour | フォーマット修正の為再実施 | 未着手 |  |
 
 ### Language Guide
