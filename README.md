@@ -1,4 +1,4 @@
-# SwiftJP
+# Swift Japanese
 
 swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language」を日本語化します。
 
