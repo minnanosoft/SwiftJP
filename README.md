@@ -22,15 +22,15 @@ swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language�
 | --- | --- | --- | --- |
 | About Swift | 完了 | 完了 | 依頼中 |
 | Version Compatibility | 完了 | 未着手 |  |
-| A Swift Tour | フォーマット修正の為再実施 | 未着手 |  |
+| A Swift Tour | 完了 | 未着手 |  |
 
 ### Language Guide
 
 | 章 | 翻訳 | 意訳 | 校正 |
 | --- | --- | --- | --- |
-| The Basics | フォーマット修正の為再実施 | 未着手 |  |
-| Basic Operators | フォーマット修正の為再実施 | 未着手 |  |
-| Strings and Characters | フォーマット修正の為再実施 | 未着手 |  |
+| The Basics | 完了 | 未着手 |  |
+| Basic Operators | 完了 | 未着手 |  |
+| Strings and Characters | 完了 | 未着手 |  |
 | Collection Types | 完了 | 未着手 |  |
 | Control Flow | 完了 | 未着手 |  |
 | Functions | 完了 | 未着手 |  |
