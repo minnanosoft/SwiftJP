@@ -20,56 +20,56 @@ swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language�
 
 | 章 | 翻訳 | 意訳 | 校正 |
 | --- | --- | --- | --- |
-| About Swift | 完了 | 完了 | 依頼中 |
-| Version Compatibility | 完了 | 未着手 |  |
-| A Swift Tour | 完了 | 未着手 |  |
+| About Swift | ○ | ○ | 依頼中 |
+| Version Compatibility | ○ | △ (2020/5/26) |  |
+| A Swift Tour | ○ | △ (2020/5/26) |  |
 
 ### Language Guide
 
 | 章 | 翻訳 | 意訳 | 校正 |
 | --- | --- | --- | --- |
-| The Basics | 完了 | 未着手 |  |
-| Basic Operators | 完了 | 未着手 |  |
-| Strings and Characters | 完了 | 未着手 |  |
-| Collection Types | 完了 | 未着手 |  |
-| Control Flow | 完了 | 未着手 |  |
-| Functions | 完了 | 未着手 |  |
-| Closures | 完了 | 未着手 |  |
-| Enumerations | 完了 | 未着手 |  |
-| Structures and Classes | 完了 | 未着手 |  |
-| Properties | 完了 | 未着手 |  |
-| Methods | 完了 | 未着手 |  |
-| Subscripts | 完了 | 未着手 |  |
-| Inheritance | 完了 | 未着手 |  |
-| Initialization | 完了 | 未着手 |  |
-| Deinitialization | 完了 | 未着手 |  |
-| Optional Chaining | 完了 | 未着手 |  |
-| Error Handling | 完了 | 未着手 |  |
-| Type Casting | 完了 | 未着手 |  |
-| Nested Types | 完了 | 未着手 |  |
-| Extensions | 完了 | 未着手 |  |
-| Protocols | 完了 | 未着手 |  |
-| Generics | 完了 | 未着手 |  |
-| Opaque Types | 完了 | 未着手 |  |
-| Automatic Reference Counting | 完了 | 未着手 |  |
-| Memory Safety | 完了 | 未着手 |  |
-| Access Control | 完了 | 未着手 |  |
-| Advanced Operators | 完了 | 未着手 |  |
+| The Basics | ○ | × (2020/5/26) |  |
+| Basic Operators | ○ | × (2020/5/27) |  |
+| Strings and Characters | ○ | × (2020/5/27) |  |
+| Collection Types | ○ | × (2020/5/27) |  |
+| Control Flow | ○ | × (2020/5/28) |  |
+| Functions | ○ | × (2020/5/28) |  |
+| Closures | ○ | × (2020/5/28) |  |
+| Enumerations | ○ | × (2020/5/29) |  |
+| Structures and Classes | ○ | × (2020/5/29) |  |
+| Properties | ○ | × (2020/5/29) |  |
+| Methods | ○ | × (2020/5/30) |  |
+| Subscripts | ○ | × (2020/5/30) |  |
+| Inheritance | ○ | × (2020/5/30) |  |
+| Initialization | ○ | × (2020/5/30) |  |
+| Deinitialization | ○ | × (2020/5/30) |  |
+| Optional Chaining | ○ | × (2020/5/30) |  |
+| Error Handling | ○ | × (2020/5/30) |  |
+| Type Casting | ○ | × (2020/5/30) |  |
+| Nested Types | ○ | × (2020/5/30) |  |
+| Extensions | ○ | × (2020/5/30) |  |
+| Protocols | ○ | × (2020/5/30) |  |
+| Generics | ○ | × (2020/5/30) |  |
+| Opaque Types | ○ | × (2020/5/30) |  |
+| Automatic Reference Counting | ○ | × (2020/5/31) |  |
+| Memory Safety | ○ | × (2020/5/31) |  |
+| Access Control | ○ | × (2020/5/31) |  |
+| Advanced Operators | ○ | × (2020/5/31) |  |
 
 ### Language Reference
 
 | 章 | 翻訳 | 意訳 | 校正 |
 | --- | --- | --- | --- |
-| About the Language Reference | 完了 | 未着手 |  |
-| Lexical Structure | 完了 | 未着手 |  |
-| Types | 完了 | 未着手 |  |
-| Expressions | 完了 | 未着手 |  |
-| Statements | 完了 | 未着手 |  |
-| Declarations | 完了 | 未着手 |  |
-| Attributes | 完了 | 未着手 |  |
-| Patterns | 完了 | 未着手 |  |
-| Generic Parameters and Arguments | 完了 | 未着手 |  |
-| Summary of the Grammar | 完了 | 未着手 |  |
+| About the Language Reference | ○ | × (2020/5/31) |  |
+| Lexical Structure | ○ | × (2020/5/31) |  |
+| Types | ○ | × (2020/5/31) |  |
+| Expressions | ○ | × (2020/5/31) |  |
+| Statements | ○ | × (2020/5/31) |  |
+| Declarations | ○ | × (2020/5/31) |  |
+| Attributes | ○ | × (2020/5/31) |  |
+| Patterns | ○ | × (2020/5/31) |  |
+| Generic Parameters and Arguments | ○ | × (2020/5/31) |  |
+| Summary of the Grammar | × | × |  |
 
 
 
