@@ -18,7 +18,7 @@ swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language�
 
 ### Welcome to Swift
 
-| 章 | フォーマット変更 | 翻訳 | 意訳 | 校正 |
+| 章 | 翻訳 | フォーマット変更 | 意訳 | 校正 |
 | --- | --- | --- | --- | --- |
 | About Swift | ○ | ○ | ○ | 依頼中 |
 | Version Compatibility | ○ | ○ | △ |  |
@@ -26,7 +26,7 @@ swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language�
 
 ### Language Guide
 
-| 章 | フォーマット変更 | 翻訳 | 意訳 | 校正 |
+| 章 | 翻訳 | フォーマット変更 | 意訳 | 校正 |
 | --- | --- | --- | --- | --- |
 | The Basics | ○ | ○ | × |  |
 | Basic Operators | ○ | ○ | × |  |
@@ -58,7 +58,7 @@ swift.org の Apple 公式Swiftマニュアル「The Swift Programming Language�
 
 ### Language Reference
 
-| 章 | フォーマット変更 | 翻訳 | 意訳 | 校正 |
+| 章 | 翻訳 | フォーマット変更 | 意訳 | 校正 |
 | --- | --- | --- | --- | --- |
 | About the Language Reference | ○ | ○ | × |  |
 | Lexical Structure | ○ | ○ | × |  |
